@@ -9,5 +9,4 @@ var upperCaseWord = function () {
 		return false
 	}
 }
-console.log(upperCaseWord())
-// console.log(w[1])
+console.log(upperCaseWord()
